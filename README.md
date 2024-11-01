@@ -41,7 +41,7 @@ To get started with any of the projects in this repository, follow these steps:
 Here's an overview of the project structure:
 
 ```lua
-/react-projects
+|react-projects
 |-- /project-name
 |   |-- /src
 |   |   |-- components
